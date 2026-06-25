@@ -1,7 +1,11 @@
 # QA or the Highway talks for 2026
 
+**[QA or the Highway: https://www.qaorthehwy.com/](https://www.qaorthehwy.com/)**
+
 * **[Keynote Matt Eland: Software Quality (eternal link)](https://www.goodstuff.tech/)**
-* **[Keynote Matt Eland: Software Quality (local version)](./KEYNOTE-matt-eland-software-quality.pdf)
+* **[Keynote Matt Eland: Software Quality (local version)](./KEYNOTE-matt-eland-software-quality.pdf)**
+
+## Submitted Talks
 
 * [Sarah Dutkiewicz: Decision Records](./sarah-dutkiewicz-decision-records.pdf)
 * [Kyle Jenkins: Working Genius](./kyle-jenkins-working-genius.pdf)
